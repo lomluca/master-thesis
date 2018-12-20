@@ -1,0 +1,1250 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.10.30)  17 DEC 2018 20:07
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**toptesi-example.tex
+(./toptesi-example.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(./toptesi.cls
+Document Class: toptesi 2011/10/18 v.5.59c Class for typesetting university the
+ses
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/02/14 3.18 The Babel package
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/02/14 3.18 Babel switching mechanism
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/02/14 3.18 Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count90
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel-italian/italian.ldf
+Language: italian 2015/03/26 v1.3n Italian support from the babel system
+\it@lettering=\count91
+\it@doublequoteactive=\count92
+\it@ISOcompliance=\count93
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count94
+))
+(./toptesi.sty
+Package: toptesi 2011/10/18 v.5.59c Extension for toptesi.cls
+\T@Pbinding=\skip43
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+\@intesta=\box26
+\captionwidth=\dimen106
+LaTeX Font Info:    Redeclaring math symbol \virgola on input line 328.
+LaTeX Font Info:    Redeclaring math symbol \virgoladecimale on input line 329.
+
+
+(./topfront.sty
+Package: topfront 2011/10/18 v.5.59c Title page for TOPtesi
+ (./toptesi.cfg)) (./topcoman.sty
+Package: topcoman 2011/10/18 v.5.59c Additional TOPtesi commands
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2018/04/05 v1.2c UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+\tabwidth=\dimen107
+)
+\c@tomo=\count95
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/04/07 v2.4g Tabular extension package (FMi)
+\col@sep=\dimen108
+\ar@mcellbox=\box27
+\extrarowheight=\dimen109
+\NC@list=\toks15
+\extratabsurround=\skip44
+\backup@length=\skip45
+\ar@cellbox=\box28
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count96
+\lst@gtempboxa=\box29
+\lst@token=\toks16
+\lst@length=\count97
+\lst@currlwidth=\dimen110
+\lst@column=\count98
+\lst@pos=\count99
+\lst@lostspace=\dimen111
+\lst@width=\dimen112
+\lst@newlines=\count100
+\lst@lineno=\count101
+\lst@maxwidth=\dimen113
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count102
+\lst@skipnumbers=\count103
+\lst@framebox=\box30
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(./listings-golang.sty)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/epigraph/epigraph.sty
+Package: epigraph 2009/09/02 v1.5c typesetting epigraphs
+\beforeepigraphskip=\skip46
+\afterepigraphskip=\skip47
+\epigraphwidth=\skip48
+\epigraphrule=\skip49
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen114
+\Hy@linkcounter=\count104
+\Hy@pagecounter=\count105
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count106
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count107
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen115
+\Fld@menulength=\count108
+\Field@Width=\dimen116
+\Fld@charsize=\dimen117
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count109
+\c@Item=\count110
+\c@Hfootnote=\count111
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count112
+\c@bookmark@seq@number=\count113
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip50
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen118
+\captionmargin@=\dimen119
+\captionwidth=\dimen120
+\caption@tempdima=\dimen121
+\caption@indent=\dimen122
+\caption@parindent=\dimen123
+\caption@hangindent=\dimen124
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\begingroup \small \par
+skip \z@ \parindent \z@ \finalhyphendemerits 100000\relax \linespread {0.95}\se
+lectfont \vskip \abovecaptionskip \captionwidth =\hsize \advance \captionwidth 
+-3em \setbox 0 \hbox {#1.\quad #2}\ifdim \wd 0>\hsize \setbox 1 \vbox {\hsize =
+\captionwidth \unhbox 0\par \global \setbox 2\lastbox }\setbox 2\hbox {\unhbox 
+2}\ifdim \wd 2<0.333333\captionwidth \count 255=\ht 1 \advance \count 255 \dp 1
+ \divide \count 255\baselineskip \advance \count 255\@ne \@tempdima =\wd 2 \adv
+ance \@tempdima \count 255\captionwidth \advance \@tempdima 0.5\captionwidth \a
+dvance \count 255\@ne \divide \@tempdima \count 255 \captionwidth =\@tempdima \
+setbox 0 \vbox {\hsize \captionwidth #1.\quad #2} \else \setbox 2\hbox to\capti
+onwidth {\unhbox 2 \hfill }\setbox 0\vbox {\unvbox 1\box 2}\fi \fi \makebox [\h
+size ]{\box 0}\endgroup .
+\c@ContinuedFloat=\count114
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+)
+\c@subfigure=\count115
+\c@subtable=\count116
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count117
+\float@exts=\toks17
+\float@box=\box31
+\@float@everytoks=\toks18
+\@floatcapt=\box32
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 27.
+Package hyperref Info: Option `colorlinks' set `true' on input line 27.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2018/04/06 v1.3b Input encoding file
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+\c@osservazione=\count118
+
+(./toptesi-example.aux)
+\openout1 = `toptesi-example.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 97.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 97.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 97.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Info: Redefining \it@ocap on input line 97.
+LaTeX Info: Redefining \it@ccap on input line 97.
+
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count119
+\scratchdimen=\dimen125
+\scratchbox=\box33
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count122
+\MPscratchDim=\dimen126
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks22
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Messaggio Toptesi: Ricalcolo i margini
+\c@lstlisting=\count125
+\AtBeginShipoutBox=\box34
+Package hyperref Info: Link coloring ON on input line 97.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count126
+)
+LaTeX Info: Redefining \ref on input line 97.
+LaTeX Info: Redefining \pageref on input line 97.
+LaTeX Info: Redefining \nameref on input line 97.
+
+(./toptesi-example.out) (./toptesi-example.out)
+\@outlinefile=\write3
+\openout3 = `toptesi-example.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+<logopolito.jpg, id=237, 1129.21875pt x 1129.21875pt>
+File: logopolito.jpg Graphic file (type jpg)
+<use logopolito.jpg>
+Package pdftex.def Info: logopolito.jpg  used on input line 102.
+(pdftex.def)             Requested size: 85.35826pt x 85.3425pt.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 102.
+
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 102.
+
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 102
+.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 102
+.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 102.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 102.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 102.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <14.4> on input line 102.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 102.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 102.
+
+Overfull \vbox (2.16994pt too high) has occurred while \output is active []
+
+
+[1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+
+ </usr/local/texlive/2018/texmf-dist/tex/latex/beamer2thesis/logopolito.jpg>] [
+2
+
+]
+[3
+
+] (./toptesi-example.toc [4
+
+])
+\tf@toc=\write4
+\openout4 = `toptesi-example.toc'.
+
+ [5] [6
+
+
+]
+Chapter 1.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+]
+[2]
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 156.
+
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [3]
+<./images/yarn-architecture.png, id=353, 486.81876pt x 383.4325pt>
+File: ./images/yarn-architecture.png Graphic file (type png)
+<use ./images/yarn-architecture.png>
+Package pdftex.def Info: ./images/yarn-architecture.png  used on input line 187
+.
+(pdftex.def)             Requested size: 252.87236pt x 199.16928pt.
+ [4 <./images/yarn-architecture.png>] [5]
+<./images/spark-architecture.png, id=376, 598.235pt x 287.0725pt>
+File: ./images/spark-architecture.png Graphic file (type png)
+<use ./images/spark-architecture.png>
+Package pdftex.def Info: ./images/spark-architecture.png  used on input line 22
+9.
+(pdftex.def)             Requested size: 415.06467pt x 199.16928pt.
+ [6] [7 <./images/spark-architecture.png>]
+Underfull \vbox (badness 4872) has occurred while \output is active []
+
+ [8]
+[9] [10] [11] [12
+
+]
+Chapter 2.
+<./images/obi-architecture.jpg, id=455, 1390.19376pt x 908.39375pt>
+File: ./images/obi-architecture.jpg Graphic file (type jpg)
+<use ./images/obi-architecture.jpg>
+Package pdftex.def Info: ./images/obi-architecture.jpg  used on input line 320.
+
+(pdftex.def)             Requested size: 304.80415pt x 199.16928pt.
+[13] [14 <./images/obi-architecture.jpg>] [15] [16] [17] [18]
+Chapter 3.
+[19
+
+]
+<./images/shamash.png, id=509, 1003.75pt x 774.895pt>
+File: ./images/shamash.png Graphic file (type png)
+<use ./images/shamash.png>
+Package pdftex.def Info: ./images/shamash.png  used on input line 435.
+(pdftex.def)             Requested size: 294.84778pt x 227.62204pt.
+
+Underfull \vbox (badness 2529) has occurred while \output is active []
+
+ [20]
+[21 <./images/shamash.png (PNG copy)>] [22] [23]
+<./images/dataproc-example1.png, id=545, 1105.12875pt x 271.0125pt>
+File: ./images/dataproc-example1.png Graphic file (type png)
+<use ./images/dataproc-example1.png>
+Package pdftex.def Info: ./images/dataproc-example1.png  used on input line 511
+.
+(pdftex.def)             Requested size: 464.10033pt x 113.81102pt.
+<./images/dataproc-example2.png, id=547, 1109.14375pt x 287.0725pt>
+File: ./images/dataproc-example2.png Graphic file (type png)
+<use ./images/dataproc-example2.png>
+Package pdftex.def Info: ./images/dataproc-example2.png  used on input line 512
+.
+(pdftex.def)             Requested size: 439.72324pt x 113.81102pt.
+<./images/dataproc-example3.png, id=548, 1110.1475pt x 284.06125pt>
+File: ./images/dataproc-example3.png Graphic file (type png)
+<use ./images/dataproc-example3.png>
+Package pdftex.def Info: ./images/dataproc-example3.png  used on input line 513
+.
+(pdftex.def)             Requested size: 444.79646pt x 113.81102pt.
+
+Overfull \hbox (37.30899pt too wide) in paragraph at lines 511--514
+ [][] 
+ []
+
+
+Overfull \hbox (12.9319pt too wide) in paragraph at lines 511--514
+ [] 
+ []
+
+
+Overfull \hbox (18.00513pt too wide) in paragraph at lines 511--514
+ [] 
+ []
+
+[24]
+Underfull \vbox (badness 1668) has occurred while \output is active []
+
+ [25 <./images/dataproc-example1.png> <./images/dataproc-example2.png> <./image
+s/dataproc-example3.png>] [26]
+Chapter 4.
+[27
+
+] [28]
+<./images/flow-example-google.png, id=592, 2955.04pt x 754.82pt>
+File: ./images/flow-example-google.png Graphic file (type png)
+<use ./images/flow-example-google.png>
+Package pdftex.def Info: ./images/flow-example-google.png  used on input line 5
+43.
+(pdftex.def)             Requested size: 334.16364pt x 85.35826pt.
+ [29 <./images/flow-example-google.png>]
+<./images/released-metrics.png, id=602, 1352.05125pt x 882.29625pt>
+File: ./images/released-metrics.png Graphic file (type png)
+<use ./images/released-metrics.png>
+Package pdftex.def Info: ./images/released-metrics.png  used on input line 584.
+
+(pdftex.def)             Requested size: 348.80179pt x 227.62204pt.
+ [30] [31 <./images/released-metrics.png>] [32] [33] [34
+
+]
+Chapter 5.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 657.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [35] [36] [37]
+[38] [39] [40] [41] [42]
+Chapter 6.
+[43
+
+] [44] [45]
+<./images/job-profile.png, id=915, 543.02875pt x 362.35374pt>
+File: ./images/job-profile.png Graphic file (type png)
+<use ./images/job-profile.png>
+Package pdftex.def Info: ./images/job-profile.png  used on input line 965.
+(pdftex.def)             Requested size: 341.12389pt x 227.62204pt.
+ [46]
+<./images/high-size.png, id=934, 523.9575pt x 265.99374pt>
+File: ./images/high-size.png Graphic file (type png)
+<use ./images/high-size.png>
+Package pdftex.def Info: ./images/high-size.png  used on input line 988.
+(pdftex.def)             Requested size: 448.38007pt x 227.62204pt.
+
+Overfull \hbox (21.58873pt too wide) in paragraph at lines 988--989
+ [][] 
+ []
+
+<./images/high-p-memory.png, id=937, 522.95375pt x 270.00874pt>
+File: ./images/high-p-memory.png Graphic file (type png)
+<use ./images/high-p-memory.png>
+Package pdftex.def Info: ./images/high-p-memory.png  used on input line 996.
+(pdftex.def)             Requested size: 440.86609pt x 227.62204pt.
+
+Overfull \hbox (14.07475pt too wide) in paragraph at lines 996--997
+ [][] 
+ []
+
+<./images/high-a-memory.png, id=938, 525.965pt x 269.005pt>
+File: ./images/high-a-memory.png Graphic file (type png)
+<use ./images/high-a-memory.png>
+Package pdftex.def Info: ./images/high-a-memory.png  used on input line 1002.
+(pdftex.def)             Requested size: 445.05792pt x 227.62204pt.
+
+Overfull \hbox (18.26659pt too wide) in paragraph at lines 1002--1003
+ [][] 
+ []
+
+[47 <./images/job-profile.png>] [48 <./images/high-size.png> <./images/high-p-m
+emory.png>]
+<./images/high-cost.png, id=954, 433.62pt x 289.08pt>
+File: ./images/high-cost.png Graphic file (type png)
+<use ./images/high-cost.png>
+Package pdftex.def Info: ./images/high-cost.png  used on input line 1012.
+(pdftex.def)             Requested size: 341.43124pt x 227.62204pt.
+<./images/high-duration.png, id=956, 433.62pt x 289.08pt>
+File: ./images/high-duration.png Graphic file (type png)
+<use ./images/high-duration.png>
+Package pdftex.def Info: ./images/high-duration.png  used on input line 1020.
+(pdftex.def)             Requested size: 341.43124pt x 227.62204pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49 <./images/high-a-memory.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [50 <./images/high-cost.png> <./images/high-duration.png>]
+<./images/medium-size.png, id=973, 525.965pt x 270.00874pt>
+File: ./images/medium-size.png Graphic file (type png)
+<use ./images/medium-size.png>
+Package pdftex.def Info: ./images/medium-size.png  used on input line 1029.
+(pdftex.def)             Requested size: 443.40466pt x 227.62204pt.
+
+Overfull \hbox (16.61333pt too wide) in paragraph at lines 1029--1030
+ [][] 
+ []
+
+[51 <./images/medium-size.png>]
+<./images/medium-p-memory.png, id=983, 525.965pt x 270.00874pt>
+File: ./images/medium-p-memory.png Graphic file (type png)
+<use ./images/medium-p-memory.png>
+Package pdftex.def Info: ./images/medium-p-memory.png  used on input line 1044.
+
+(pdftex.def)             Requested size: 443.40466pt x 227.62204pt.
+
+Overfull \hbox (16.61333pt too wide) in paragraph at lines 1044--1045
+ [][] 
+ []
+
+<./images/medium-a-memory.png, id=984, 520.94624pt x 243.91125pt>
+File: ./images/medium-a-memory.png Graphic file (type png)
+<use ./images/medium-a-memory.png>
+Package pdftex.def Info: ./images/medium-a-memory.png  used on input line 1050.
+
+(pdftex.def)             Requested size: 486.16019pt x 227.62204pt.
+
+Overfull \hbox (59.36885pt too wide) in paragraph at lines 1050--1051
+ [][] 
+ []
+
+<./images/medium-cost.png, id=986, 433.62pt x 289.08pt>
+File: ./images/medium-cost.png Graphic file (type png)
+<use ./images/medium-cost.png>
+Package pdftex.def Info: ./images/medium-cost.png  used on input line 1058.
+(pdftex.def)             Requested size: 341.43124pt x 227.62204pt.
+[52 <./images/medium-p-memory.png>] [53 <./images/medium-a-memory.png> <./image
+s/medium-cost.png>]
+<./images/medium-duration.png, id=1004, 433.62pt x 289.08pt>
+File: ./images/medium-duration.png Graphic file (type png)
+<use ./images/medium-duration.png>
+Package pdftex.def Info: ./images/medium-duration.png  used on input line 1066.
+
+(pdftex.def)             Requested size: 341.43124pt x 227.62204pt.
+<./images/low-size.png, id=1006, 523.9575pt x 270.00874pt>
+File: ./images/low-size.png Graphic file (type png)
+<use ./images/low-size.png>
+Package pdftex.def Info: ./images/low-size.png  used on input line 1075.
+(pdftex.def)             Requested size: 441.7123pt x 227.62204pt.
+
+Overfull \hbox (14.92096pt too wide) in paragraph at lines 1075--1076
+ [][] 
+ []
+
+<./images/low-p-memory.png, id=1009, 543.02875pt x 276.03125pt>
+File: ./images/low-p-memory.png Graphic file (type png)
+<use ./images/low-p-memory.png>
+Package pdftex.def Info: ./images/low-p-memory.png  used on input line 1083.
+(pdftex.def)             Requested size: 447.81366pt x 227.62204pt.
+
+Overfull \hbox (21.02232pt too wide) in paragraph at lines 1083--1084
+ [][] 
+ []
+
+<./images/low-a-memory.png, id=1010, 522.95375pt x 270.00874pt>
+File: ./images/low-a-memory.png Graphic file (type png)
+<use ./images/low-a-memory.png>
+Package pdftex.def Info: ./images/low-a-memory.png  used on input line 1089.
+(pdftex.def)             Requested size: 440.86609pt x 227.62204pt.
+
+Overfull \hbox (14.07475pt too wide) in paragraph at lines 1089--1090
+ [][] 
+ []
+
+[54 <./images/medium-duration.png>]
+Underfull \vbox (badness 5008) has occurred while \output is active []
+
+ [55 <./images/low-size.png> <./images/low-p-memory.png>]
+<./images/low-cost.png, id=1028, 433.62pt x 289.08pt>
+File: ./images/low-cost.png Graphic file (type png)
+<use ./images/low-cost.png>
+Package pdftex.def Info: ./images/low-cost.png  used on input line 1103.
+(pdftex.def)             Requested size: 341.43124pt x 227.62204pt.
+<./images/low-duration.png, id=1030, 433.62pt x 289.08pt>
+File: ./images/low-duration.png Graphic file (type png)
+<use ./images/low-duration.png>
+Package pdftex.def Info: ./images/low-duration.png  used on input line 1111.
+(pdftex.def)             Requested size: 341.43124pt x 227.62204pt.
+
+Underfull \vbox (badness 7925) has occurred while \output is active []
+
+ [56 <./images/low-a-memory.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [57 <./images/low-cost.png> <./images/low-duration.png>]
+<./images/test1-cost-comparison.png, id=1046, 433.62pt x 289.08pt>
+File: ./images/test1-cost-comparison.png Graphic file (type png)
+<use ./images/test1-cost-comparison.png>
+Package pdftex.def Info: ./images/test1-cost-comparison.png  used on input line
+ 1120.
+(pdftex.def)             Requested size: 341.43124pt x 227.62204pt.
+<./images/test1-duration-comparison.png, id=1048, 433.62pt x 289.08pt>
+File: ./images/test1-duration-comparison.png Graphic file (type png)
+<use ./images/test1-duration-comparison.png>
+Package pdftex.def Info: ./images/test1-duration-comparison.png  used on input 
+line 1128.
+(pdftex.def)             Requested size: 341.43124pt x 227.62204pt.
+ [58 <./images/test1-cost-comparison.png>] [59 <./images/test1-duration-compari
+son.png>]
+<./images/down-size.png, id=1065, 521.95pt x 263.98625pt>
+File: ./images/down-size.png Graphic file (type png)
+<use ./images/down-size.png>
+Package pdftex.def Info: ./images/down-size.png  used on input line 1158.
+(pdftex.def)             Requested size: 450.04695pt x 227.62204pt.
+
+Overfull \hbox (23.25562pt too wide) in paragraph at lines 1158--1159
+ [][] 
+ []
+
+<./images/down-p-memory.png, id=1067, 522.95375pt x 268.00125pt>
+File: ./images/down-p-memory.png Graphic file (type png)
+<use ./images/down-p-memory.png>
+Package pdftex.def Info: ./images/down-p-memory.png  used on input line 1167.
+(pdftex.def)             Requested size: 166.55862pt x 85.35826pt.
+<./images/down-a-memory.png, id=1068, 521.95pt x 268.00125pt>
+File: ./images/down-a-memory.png Graphic file (type png)
+<use ./images/down-a-memory.png>
+Package pdftex.def Info: ./images/down-a-memory.png  used on input line 1172.
+(pdftex.def)             Requested size: 166.23894pt x 85.35826pt.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `htb') on input line 1181.
+
+[60 <./images/down-size.png>]
+<./images/fast-down-cost.png, id=1082, 433.62pt x 289.08pt>
+File: ./images/fast-down-cost.png Graphic file (type png)
+<use ./images/fast-down-cost.png>
+Package pdftex.def Info: ./images/fast-down-cost.png  used on input line 1198.
+(pdftex.def)             Requested size: 341.43124pt x 227.62204pt.
+<./images/fast-down-duration.png, id=1084, 433.62pt x 289.08pt>
+File: ./images/fast-down-duration.png Graphic file (type png)
+<use ./images/fast-down-duration.png>
+Package pdftex.def Info: ./images/fast-down-duration.png  used on input line 12
+06.
+(pdftex.def)             Requested size: 341.43124pt x 227.62204pt.
+ [61 <./images/down-p-memory.png> <./images/down-a-memory.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [62 <./images/fast-down-cost.png> <./images/fast-down-duration.png>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `htb') on input line 1213.
+
+<./images/slow-down-cost.png, id=1102, 433.62pt x 289.08pt>
+File: ./images/slow-down-cost.png Graphic file (type png)
+<use ./images/slow-down-cost.png>
+Package pdftex.def Info: ./images/slow-down-cost.png  used on input line 1230.
+(pdftex.def)             Requested size: 341.43124pt x 227.62204pt.
+[63 <./images/slow-down-cost.png>]
+<./images/slow-down-duration.png, id=1112, 433.62pt x 289.08pt>
+File: ./images/slow-down-duration.png Graphic file (type png)
+<use ./images/slow-down-duration.png>
+Package pdftex.def Info: ./images/slow-down-duration.png  used on input line 12
+38.
+(pdftex.def)             Requested size: 298.75482pt x 199.16928pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [64 <./images/slow-down-duration.png>] [65]
+<./images/google-size.png, id=1127, 555.07375pt x 353.32pt>
+File: ./images/google-size.png Graphic file (type png)
+<use ./images/google-size.png>
+Package pdftex.def Info: ./images/google-size.png  used on input line 1263.
+(pdftex.def)             Requested size: 357.60056pt x 227.62204pt.
+<./images/google-cost.png, id=1129, 433.62pt x 289.08pt>
+File: ./images/google-cost.png Graphic file (type png)
+<use ./images/google-cost.png>
+Package pdftex.def Info: ./images/google-cost.png  used on input line 1272.
+(pdftex.def)             Requested size: 341.43124pt x 227.62204pt.
+ [66 <./images/google-size.png>]
+<./images/google-duration.png, id=1139, 433.62pt x 289.08pt>
+File: ./images/google-duration.png Graphic file (type png)
+<use ./images/google-duration.png>
+Package pdftex.def Info: ./images/google-duration.png  used on input line 1279.
+
+(pdftex.def)             Requested size: 341.43124pt x 227.62204pt.
+ [67 <./images/google-cost.png>]
+<./images/custom-size.png, id=1151, 521.95pt x 264.99pt>
+File: ./images/custom-size.png Graphic file (type png)
+<use ./images/custom-size.png>
+Package pdftex.def Info: ./images/custom-size.png  used on input line 1296.
+(pdftex.def)             Requested size: 168.12648pt x 85.35826pt.
+<./images/custom-down-size.png, id=1152, 523.9575pt x 269.005pt>
+File: ./images/custom-down-size.png Graphic file (type png)
+<use ./images/custom-down-size.png>
+Package pdftex.def Info: ./images/custom-down-size.png  used on input line 1301
+.
+(pdftex.def)             Requested size: 166.25471pt x 85.35826pt.
+<./images/custom-google-size.png, id=1153, 553.06625pt x 332.24126pt>
+File: ./images/custom-google-size.png Graphic file (type png)
+<use ./images/custom-google-size.png>
+Package pdftex.def Info: ./images/custom-google-size.png  used on input line 13
+06.
+(pdftex.def)             Requested size: 142.08913pt x 85.35826pt.
+ [68 <./images/google-duration.png>]
+<./images/custom-cost.png, id=1166, 433.62pt x 289.08pt>
+File: ./images/custom-cost.png Graphic file (type png)
+<use ./images/custom-cost.png>
+Package pdftex.def Info: ./images/custom-cost.png  used on input line 1318.
+(pdftex.def)             Requested size: 192.05052pt x 128.0374pt.
+
+Overfull \hbox (21.3366pt too wide) in paragraph at lines 1318--1319
+[][] 
+ []
+
+<./images/custom-duration.png, id=1167, 433.62pt x 289.08pt>
+File: ./images/custom-duration.png Graphic file (type png)
+<use ./images/custom-duration.png>
+Package pdftex.def Info: ./images/custom-duration.png  used on input line 1323.
+
+(pdftex.def)             Requested size: 192.05052pt x 128.0374pt.
+
+Overfull \hbox (21.3366pt too wide) in paragraph at lines 1323--1324
+[][] 
+ []
+
+[69 <./images/custom-size.png> <./images/custom-down-size.png> <./images/custom
+-google-size.png>] [70 <./images/custom-cost.png> <./images/custom-duration.png
+>]
+Chapter 7.
+[71
+
+] [72] [73]
+Overfull \hbox (11.94656pt too wide) detected at line 1363
+[][]\OT1/lmr/m/n/12 ^^A\OML/lmm/m/it/12 N \OT1/lmr/m/n/12 = \OML/lmm/m/it/12 \
+OT1/lmr/m/n/12 ([] [] \OML/lmm/m/it/12 w\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 t\OT1
+/lmr/m/n/12 )(\OML/lmm/m/it/12 C[]\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 t\OT1/lmr/m
+/n/12 ) \OMS/lmsy/m/n/12 ^^@ \OML/lmm/m/it/12 C[]\OT1/lmr/m/n/12 (\OML/lmm/m/it
+/12 t \OMS/lmsy/m/n/12 ^^@ \OT1/lmr/m/n/12 1)) \OMS/lmsy/m/n/12 ^^@ \OML/lmm/m/
+it/12 max\OT1/lmr/m/n/12 (0\OML/lmm/m/it/12 ; [] [] w\OT1/lmr/m/n/12 (\OML/lmm/
+m/it/12 t\OT1/lmr/m/n/12 )(\OML/lmm/m/it/12 C[]\OT1/lmr/m/n/12 (\OML/lmm/m/it/1
+2 t\OT1/lmr/m/n/12 ) \OMS/lmsy/m/n/12 ^^@ \OML/lmm/m/it/12 C[]\OT1/lmr/m/n/12 (
+\OML/lmm/m/it/12 t \OMS/lmsy/m/n/12 ^^@ \OT1/lmr/m/n/12 1) \OMS/lmsy/m/n/12 ^^@
+ []\OT1/lmr/m/n/12 )))[]
+ []
+
+[74]
+Underfull \hbox (badness 10000) in paragraph at lines 1394--1397
+\T1/lmtt/m/n/12 / / hadoop . apache . org / docs / current / hadoop-[]yarn / ha
+doop-[]yarn-[]site /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1407
+[]\T1/lmr/m/n/12 Dynamic Re-source Al-lo-ca-tion. \T1/lmr/m/it/12 Re-souce al-l
+o-ca-tion workload-based\T1/lmr/m/n/12 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1407
+[][]$\T1/lmtt/m/n/12 https : / / spark . apache . org / docs / latest / job-[]s
+cheduling . html #
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1409--1412
+[]\T1/lmr/m/n/12 Wikipedia. \T1/lmr/m/it/12 Cloud Com-put-ing\T1/lmr/m/n/12 . [
+][]$\T1/lmtt/m/n/12 https : / / en . wikipedia . org / wiki / Cloud _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1439--1442
+[]\T1/lmr/m/n/12 Kubernetes. \T1/lmr/m/it/12 Production-Grade Con-tainer Or-che
+s-tra-tion\T1/lmr/m/n/12 . [][]$\T1/lmtt/m/n/12 https :
+ []
+
+[75
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1454--1457
+[]\T1/lmr/m/n/12 Ephemeral model. \T1/lmr/m/it/12 From on-premises Hadoop to GC
+P\T1/lmr/m/n/12 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1454--1457
+[][]$\T1/lmtt/m/n/12 https : / / cloud . google . com / solutions / migration /
+ hadoop /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1504--1507
+[]\T1/lmr/m/n/12 Dataproc Ini-tial-iza-tion Ac-tions. \T1/lmr/m/it/12 Cus-tom s
+etup upon Dat-aproc
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1504--1507
+\T1/lmr/m/it/12 clus-ter cre-ation\T1/lmr/m/n/12 . [][]$\T1/lmtt/m/n/12 https :
+ / / github . com / GoogleCloudPlatform /
+ []
+
+
+Underfull \hbox (badness 3428) in paragraph at lines 1514--1517
+\T1/lmr/m/it/12 a-nism for se-ri-al-iz-ing struc-tured data\T1/lmr/m/n/12 . [][
+]$\T1/lmtt/m/n/12 https : / / developers . google . com /
+ []
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 1539--1542
+[]\T1/lmr/m/n/12 Dataflow. \T1/lmr/m/it/12 Sim-pli-fied stream and batch data p
+ro-cess-ing\T1/lmr/m/n/12 . [][]$\T1/lmtt/m/n/12 https : / / cloud .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1554--1557
+[]\T1/lmr/m/n/12 Shamash \T1/lmr/m/it/12 DoIT In-ter-na-tional\T1/lmr/m/n/12 . 
+[][]$\T1/lmtt/m/n/12 https : / / blog . doit-[]intl . com /
+ []
+
+[76]
+Underfull \hbox (badness 10000) in paragraph at lines 1564--1567
+\T1/lmtt/m/n/12 / / cloud . google . com / dataproc / docs / concepts / configu
+ring-[]clusters /
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 1579--1582
+[]\T1/lmr/m/n/12 Google Cloud Plat-form \T1/lmr/m/it/12 Pre-em-btible Vir-tual 
+Ma-chines\T1/lmr/m/n/12 . [][]$\T1/lmtt/m/n/12 https : / / cloud .
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1600.
+[77]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1600.
+ (./toptesi-example.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1600.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1600.
+
+Package rerunfilecheck Info: File `toptesi-example.out' has not changed.
+(rerunfilecheck)             Checksum: 438A59D55EE487A515676F292649F51E;3707.
+ ) 
+Here is how much of TeX's memory you used:
+ 11389 strings out of 492649
+ 168167 string characters out of 6129621
+ 358730 words of memory out of 5000000
+ 14558 multiletter control sequences out of 15000+600000
+ 80848 words of font info for 57 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,13n,42p,2321b,1855s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
+texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2018/t
+exmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/2018/texmf-dist/
+fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/
+dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/l
+m-ts1.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbx12.pfb>
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/loc
+al/texlive/2018/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texliv
+e/2018/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2018/tex
+mf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2018/texmf-dist/fo
+nts/type1/public/lm/lmmi6.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/p
+ublic/lm/lmmi8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lm
+r10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr12.pfb></u
+sr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/te
+xlive/2018/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2018/t
+exmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2018/texmf-dist/
+fonts/type1/public/lm/lmro10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type
+1/public/lm/lmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/l
+m/lmtt10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmtt12.p
+fb>
+Output written on toptesi-example.pdf (83 pages, 2073718 bytes).
+PDF statistics:
+ 1478 PDF objects out of 1728 (max. 8388607)
+ 1282 compressed objects within 13 object streams
+ 507 named destinations out of 1000 (max. 500000)
+ 680 words of extra memory for PDF output out of 10000 (max. 10000000)
+

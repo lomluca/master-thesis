@@ -1,0 +1,47 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\babel@toc {english}{}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces The actors in YARN.\relax }}{4}{figure.caption.5}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces The Spark components.\relax }}{7}{figure.caption.7}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces OBI architecture.\relax }}{14}{figure.caption.11}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces The Shamash workflow.\relax }}{21}{figure.caption.12}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Google Autoscaler in action.\relax }}{25}{figure.caption.13}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces The unfavourable case for Google Autoscaler. In each box the metrics about YARN Pending Memory and YARN Available Memory. The negative average is in contrast with the actual trend, highlighted by the color gradient.\relax }}{29}{figure.caption.14}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces The evolution of \textit {AggregateContainersReleased} and \textit {ContainersAllocated} during the execution of a K-means job.\relax }}{31}{figure.caption.15}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces The number of YARN pending containers of the job executed in a cluster with minimum configuration.\relax }}{46}{figure.caption.19}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces The number of Node Managers during the execution of the production job in an autoscaled cluster with high scaling factor.\relax }}{48}{figure.caption.20}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces The evolution of \textit {Pending Memory} during the execution of the production job in an autoscaled cluster with high scaling factor.\relax }}{48}{figure.caption.21}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces The evolution of \textit {Available Memory} during the execution of the production job in an autoscaled cluster with high scaling factor.\relax }}{49}{figure.caption.22}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces The costs distribution after 50 executions of the production job in an autoscaled cluster with high scaling factor.\relax }}{50}{figure.caption.23}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces The duration distribution after 50 executions of the production job in an autoscaled cluster with high scaling factor.\relax }}{50}{figure.caption.24}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces The number of Node Managers during the execution of the production job in an autoscaled cluster with medium scaling factor.\relax }}{51}{figure.caption.25}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces The evolution of \textit {Pending Memory} during the execution of the production job in an autoscaled cluster with medium scaling factor.\relax }}{52}{figure.caption.26}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces The evolution of \textit {Available Memory} during the execution of the production job in an autoscaled cluster with medium scaling factor.\relax }}{53}{figure.caption.27}
+\contentsline {figure}{\numberline {6.10}{\ignorespaces The costs distribution after 50 executions of the production job in an autoscaled cluster with medium scaling factor.\relax }}{53}{figure.caption.28}
+\contentsline {figure}{\numberline {6.11}{\ignorespaces The duration distribution after 50 executions of the production job in an autoscaled cluster with medium scaling factor.\relax }}{54}{figure.caption.29}
+\contentsline {figure}{\numberline {6.12}{\ignorespaces The number of Node Managers during the execution of the production job in an autoscaled cluster with low scaling factor.\relax }}{55}{figure.caption.30}
+\contentsline {figure}{\numberline {6.13}{\ignorespaces The evolution of \textit {Pending Memory} during the execution of the production job in an autoscaled cluster with low scaling factor.\relax }}{55}{figure.caption.31}
+\contentsline {figure}{\numberline {6.14}{\ignorespaces The evolution of \textit {Available Memory} during the execution of the production job in an autoscaled cluster with low scaling factor.\relax }}{56}{figure.caption.32}
+\contentsline {figure}{\numberline {6.15}{\ignorespaces The costs distribution after 50 executions of the production job in an autoscaled cluster with low scaling factor.\relax }}{57}{figure.caption.33}
+\contentsline {figure}{\numberline {6.16}{\ignorespaces The duration distribution after 50 executions of the production job in an autoscaled cluster with low scaling factor.\relax }}{57}{figure.caption.34}
+\contentsline {figure}{\numberline {6.17}{\ignorespaces The cost comparison between the three different autoscaler configuration, with downscaling disabled.\relax }}{58}{figure.caption.35}
+\contentsline {figure}{\numberline {6.18}{\ignorespaces The duration comparison between the three different autoscaler configuration, with downscaling disabled.\relax }}{59}{figure.caption.36}
+\contentsline {figure}{\numberline {6.19}{\ignorespaces The number of Node Managers during the execution of the production job in an autoscaled cluster with low scaling factor and downscaling enabled.\relax }}{60}{figure.caption.37}
+\contentsline {figure}{\numberline {6.20}{\ignorespaces The evolution of \textit {Pending Memory} and \textit {Available Memory} during the execution of the production job in an autoscaled cluster with fast graceful decommissiong.\relax }}{61}{figure.caption.38}
+\contentsline {figure}{\numberline {6.21}{\ignorespaces The cost comparison between the conservative configuration (no downscaling) and that one with 2 minutes as gracefully decommissioning.\relax }}{62}{figure.caption.40}
+\contentsline {figure}{\numberline {6.22}{\ignorespaces The duration comparison between the conservative configuration (no downscaling) and that one with 2 minutes as gracefully decommissioning.\relax }}{62}{figure.caption.41}
+\contentsline {figure}{\numberline {6.23}{\ignorespaces The cost comparison between the conservative configuration (no downscaling), 2 minutes and 5 minutes as gracefully decommissioning.\relax }}{63}{figure.caption.43}
+\contentsline {figure}{\numberline {6.24}{\ignorespaces The duration comparison between the conservative configuration (no downscaling), 2 minutes and 5 minutes as gracefully decommissioning.\relax }}{64}{figure.caption.44}
+\contentsline {figure}{\numberline {6.25}{\ignorespaces The number of Node Managers during the execution of the production job in a cluster controlled by Google autoscaling mechanism.\relax }}{66}{figure.caption.45}
+\contentsline {figure}{\numberline {6.26}{\ignorespaces The cost comparison between the two best configurations and the autoscaler by Google (conservative configuration).\relax }}{67}{figure.caption.46}
+\contentsline {figure}{\numberline {6.27}{\ignorespaces The duration comparison between the two best configurations and the autoscaler by Google (conservative configuration).\relax }}{68}{figure.caption.47}
+\contentsline {figure}{\numberline {6.28}{\ignorespaces The \textit {Cluster size} comparison during the execution of the custom job, between the conservative configuration and the medium with downscaling one.\relax }}{69}{figure.caption.48}
+\contentsline {figure}{\numberline {6.29}{\ignorespaces The cost and duration comparison during the execution of the custom job, between the conservative configuration, the medium with downscaling and the google implementation.\relax }}{70}{figure.caption.49}
+\addvspace {10\p@ }

@@ -1,0 +1,4 @@
+select id, date_part('epoch', j.lastupdatetimestamp) - date_part('epoch', j.creationtimestamp) as duration, cost
+from Job j, Cluster c
+where j.clustername = c.name and j.status != 'failed'
+order by id;

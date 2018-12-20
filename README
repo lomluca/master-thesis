@@ -1,0 +1,54 @@
+TOPtesi bundle version 5.59c of 2011/10/30
+Copyright 2011 Claudio Beccari
+LaTeX Project Public Licence LPPL v.1.3 (or later)
+
+The TOPtesi bundle contains everything is needed for typesetting a 
+bachelor, master or PhD thesis in Italian (or in any other language 
+supported by LaTeX: the bundle is constructed to support multilanguage 
+use).
+The infix strings may be selected and specified at will by means
+of a configuration file, so as to customize the layout of the
+front page to the requirements of a specific university and a specific
+language.  
+
+Thanks to its language management, the bundle is suited for 
+multilanguage theses that are more and more frequent thanks 
+to the double degree programs of the European Union Erasmus programs.
+
+This important upgrade is intended to be compliant with XeLaTeX 
+and the documentation explains how to obtain PDF/A-1b archivable 
+files from both pdfLaTeX and XeLaTeX. The version number 5.59 is 
+to be considered as a stable beta version; in the sense that it 
+should be equivalento to version 5.50 when used with pdfLaTeX, 
+and an experimental version when used with XeLaTeX.
+
+For installation, if the package is not already installed in your
+TeX system distribution, either read the Italian documentation in 
+toptesi-doc.pdf or quickly decompress the toptesi.zip file and move
+all the pdf files to
+
+to  /texmf/doc/latex/toptesi.
+
+
+Move:
+
+toptesi.dtx 
+toptesi-doc-xetex.tex
+
+to  /texmf/source/latex/toptesi.
+
+Move the other .tex files to /texmf/tex/latex/toptesi
+ 
+Run pdflatex on toptesi.dtx in order to get the class, style and 
+configuration files (and the pdf documentation in English)  and move
+the .cls, .sty, .xmpdata, .ps  and .cfg files to /texmf/tex/latex/toptesi
+
+If the cited folders do not exist, create them.
+
+The texmf folder is your personal texmf folder. If the package is already installed the texmf folder should be the /texmf-dist system one.
+
+If you are running a Windows platform change the slashes into backslashes
+and prefix all paths with the drive letter and any other specific prefix 
+that is present in the texmf tree.
+
+In any case remember to refresh the filename database!
